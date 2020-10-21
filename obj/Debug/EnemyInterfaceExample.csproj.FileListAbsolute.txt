@@ -1,0 +1,7 @@
+C:\CodeProjects\EnemyInterfaceExample\bin\Debug\EnemyInterfaceExample.exe.config
+C:\CodeProjects\EnemyInterfaceExample\bin\Debug\EnemyInterfaceExample.exe
+C:\CodeProjects\EnemyInterfaceExample\bin\Debug\EnemyInterfaceExample.pdb
+C:\CodeProjects\EnemyInterfaceExample\obj\Debug\EnemyInterfaceExample.csprojAssemblyReference.cache
+C:\CodeProjects\EnemyInterfaceExample\obj\Debug\EnemyInterfaceExample.exe
+C:\CodeProjects\EnemyInterfaceExample\obj\Debug\EnemyInterfaceExample.pdb
+C:\CodeProjects\EnemyInterfaceExample\obj\Debug\EnemyInterfaceExample.csproj.CoreCompileInputs.cache
